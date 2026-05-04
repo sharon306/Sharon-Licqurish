@@ -27,6 +27,6 @@ I am currently benchmarking my protocols against **Defense-Grade Commitment Boun
 
 > **"Utility begins where the hype ends."**
 
-- 📫 **LinkedIn:** [https://www.linkedin.com/in/sharon-licqurish-phd-82181097/]
+- 📫 **LinkedIn:** https://www.linkedin.com/in/sharon-licqurish-phd-82181097/
 - 📍 **Based in:** Melbourne, Australia
 - 💼 **Firm:** Implementation Alpha AI
